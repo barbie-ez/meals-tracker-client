@@ -1,0 +1,10 @@
+@import "./colors.scss";
+
+.dashboard {
+  .navbar-brand {
+    color: $default-color;
+  }
+  .navbar-light .navbar-nav .nav-link {
+    color: $white;
+  }
+}
